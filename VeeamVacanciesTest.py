@@ -1,5 +1,3 @@
-import time
-
 from selenium import webdriver
 from PageCareersVacancies import Veeam_Careers_Vacancies
 from Options import expected_result, department, language
