@@ -1,3 +1,6 @@
+Python version: 3.10
+Packages used: selenium 4.5.0 and lxml 4.9.2
+
 # VacanciesProject
 
 Use the file Options.py to set the department and language for which you would like the test to run.
